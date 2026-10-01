@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-size: 22px;
+}
+
+img {
+    width: 200px;
+    height: 250px;
+    margin-left:550px
+}
